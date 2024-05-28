@@ -1,4 +1,29 @@
 # Discord-Bot
+Все нужные библиотеки для создания Discord бота⬇️
 ```sh
-docker compose --profile ci up --build --attach-dependencies
+pip install discord.py
 ```
+
+
+```sh
+pip install requests
+```
+
+
+
+```sh
+pip install python-dotenv
+```
+
+
+
+```sh
+pip install asyncpg
+```
+
+
+
+```sh
+pip install aiohttp
+```
+
